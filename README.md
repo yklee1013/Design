@@ -1,4 +1,6 @@
 Dec 26th  Xmas_Lights
-First AI practice. Tutorial can be found on Tuts+
+==================
+First AI practice. Tutorial can be found on Tuts+    
+![](https://github.com/yklee1013/Design/blob/master/Xmas_Lights.png)
 
-![alt tag](https://raw.github.com/yklee1013/Design/Xmas_Lights.png)
+
