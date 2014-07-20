@@ -1,6 +1,6 @@
 #Design Practices#
 
-> This is a repo that has all my AI/PS practice works. Preview can be found below. I followed some tutorial from different places, so do feel free to download them and enjoy the reengineering!
+> This is a repo that has most of my AI/PS practice works. Being a CS major and a designer is not mutually exclusive. 
 
 
 ### Xmas_Lights.ai
