@@ -16,4 +16,6 @@ An app for Rice students to view daily servery menus
 This is an icon I created for the lab I'm working at.
 ![ScreenShot](https://raw.githubusercontent.com/yklee1013/Design/master/hj/hjlogo.png)
 
+### License
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
