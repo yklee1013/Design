@@ -1,6 +1,6 @@
 #Design Practices#
 
-> This is a repo that has most of my AI/PS practice works. Being a CS major and a designer is not mutually exclusive. 
+> This is a repo that has most of my AI/PS practice works. Coding during the day, drawing stuff at night :D 
 
 
 ### Xmas_Lights.ai
